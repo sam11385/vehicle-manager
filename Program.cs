@@ -19,7 +19,6 @@ namespace vehicle_manager
                 .Build();
 
             host.Run();
-            Console.WriteLine();
         }
     }
 }
